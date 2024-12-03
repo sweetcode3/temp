@@ -1,0 +1,11 @@
+{
+    "DeviceName": "Your Headphones Name",
+    "IdleTimeout": 300,
+    "CheckInterval": 30,
+    "AutoReconnect": true,
+    "LastConfigCheck": "2023-01-01T00:00:00",
+    "LogRetentionDays": 7,
+    "AudioThreshold": 0.01,
+    "ReconnectAttempts": 3,
+    "ReconnectDelay": 5
+}
